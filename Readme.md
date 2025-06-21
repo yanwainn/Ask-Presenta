@@ -191,9 +191,12 @@ DALLE_API_VERSION=2024-02-01
 4. Add your company logo as `logo.png` in the project directory
 5. Run the application:
    ```
+<<<<<<< HEAD
    uv venv
   .\.venv\Scripts\activate
    uv sync
+=======
+>>>>>>> origin/main
    streamlit run app.py
    ```
 
